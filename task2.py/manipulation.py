@@ -1,3 +1,4 @@
+#string manipulation 
 str_manip = input("Enter a sentence: ")
 
 str_length = len(str_manip)
