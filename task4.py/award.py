@@ -1,3 +1,4 @@
+#award system using if and elif
 swimming = int(input("Please enter your swimming time in minutes: "))
 cycling = int(input("Please enter your cycling time in minutes: "))
 running = int(input("Please enter your running time in minutes: "))
